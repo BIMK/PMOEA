@@ -1,0 +1,10 @@
+setting... -N 5000
+setting... -k 20
+setting... -maxk 50
+setting... -mu 0.1   ±ä¶¯0.1¡¢0.2¡¢0.3  ...
+setting... -t1 2
+setting... -t2 1
+setting... -minc 20
+setting... -maxc 100
+
+

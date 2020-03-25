@@ -1,0 +1,241 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+ 
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+ 
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+ 
+ 
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... Starting parallel pool (parpool) using the 'local' profile ... {Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+{Error using crossover_mutation (line 118)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 
+connected to 1 workers.
+{Error using crossover_mutation (line 74)
+Matrix dimensions must agree.
+
+Error in PMOEA_MOEA (line 148)
+parfor ci = 1:length(currentCoreNodes) %% ����MOEA��������
+
+
+Error in run (line 23)
+          PMOEA_MOEA(path,name,real_path,overlapping,isRealWorld,1,-1,c);
+} 

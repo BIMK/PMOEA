@@ -1,0 +1,39 @@
+
+############开始运行############17-Mar-2020 13:47:38
+当前时间是17-Mar-2020 13:47:39
+Network:5000_0.1, run:1/20, this run used time:65.5306, total used time:65.5361
+当前时间是17-Mar-2020 13:48:44
+Network:5000_0.2, run:1/20, this run used time:60.3415, total used time:60.3457
+当前时间是17-Mar-2020 13:49:45
+Network:5000_0.3, run:1/20, this run used time:66.4365, total used time:66.444
+当前时间是17-Mar-2020 13:50:51
+Network:5000_0.4, run:1/20, this run used time:69.7077, total used time:69.7307
+当前时间是17-Mar-2020 13:52:01
+Network:5000_0.5, run:1/20, this run used time:70.5317, total used time:70.5332
+当前时间是17-Mar-2020 13:53:11
+Network:5000_0.6, run:1/20, this run used time:68.9933, total used time:68.9939
+当前时间是17-Mar-2020 13:54:20
+Network:5000_0.7, run:1/20, this run used time:66.5126, total used time:66.5133
+当前时间是17-Mar-2020 13:55:27
+Network:5000_0.8, run:1/20, this run used time:68.0182, total used time:68.0188
+############开始运行############18-Mar-2020 05:49:49
+当前时间是18-Mar-2020 05:49:50
+Network:50000_0.25, run:1/20, this run used time:2923.1701, total used time:2923.1756
+当前时间是18-Mar-2020 06:38:33
+Network:100000_0.25, run:1/20, this run used time:11950.1784, total used time:11950.1821
+当前时间是18-Mar-2020 09:57:44
+Network:150000_0.25, run:1/20, this run used time:25576.0316, total used time:25576.3785
+当前时间是18-Mar-2020 17:04:01
+Network:200000_0.25, run:1/20, this run used time:59423.7643, total used time:59424.388
+############开始运行############19-Mar-2020 12:11:16
+Network:karate, run:1/20, this run used time:5.4372, total used time:5.4384
+Network:dolphin, run:1/20, this run used time:4.0191, total used time:4.0197
+Network:football, run:1/20, this run used time:5.1575, total used time:5.1616
+Network:netscience_remove, run:1/20, this run used time:22.9508, total used time:22.951
+Network:CQC, run:1/20, this run used time:67.8519, total used time:67.8526
+Network:blogs, run:1/20, this run used time:64.0558, total used time:64.056
+Network:hepth, run:1/20, this run used time:402.8713, total used time:402.8716
+Network:hepth1, run:1/20, this run used time:109.9117, total used time:109.9119
+Network:CA-AstroPh_18772_396160, run:1/20, this run used time:324.0043, total used time:324.0045
+Network:CA-CondMat_23133_186936, run:1/20, this run used time:613.3162, total used time:613.3164
+Network:Brightkite_58228, run:1/20, this run used time:3307.6366, total used time:3307.6369

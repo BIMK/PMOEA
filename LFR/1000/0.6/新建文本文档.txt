@@ -1,0 +1,1 @@
+binary_network -N 1000 -k 20 -maxk 50 -mu 0.6 -t1 2 -t2 1 -minc 20 -maxc 100
