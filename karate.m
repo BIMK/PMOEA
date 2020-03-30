@@ -4,7 +4,7 @@ function [a] = karate(fid)
     overlapping = 0;
  Date = {'karate', 'dolphin', 'football', 'netscience_remove', 'CQC', 'blogs', 'hepth', 'hepth1', 'CA-AstroPh_18772_396160', 'CA-CondMat_23133_186936', 'Brightkite_58228', '196591'};
     %Date={'karate','dolphin','football','netscience_remove','CQC','blogs','Hepth','hepth1','CA-AstroPh','CA-CondMat','Brightkite_edges','Gowalla_edges'};
-    for i=12:12
+    for i=1:11
         
       global modularity
       if i==12 %最大的数据集需要特殊处理
