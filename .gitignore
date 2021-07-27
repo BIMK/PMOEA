@@ -1,4 +1,6 @@
-/Job*
+Job*
+results/
+result_statistics/
 Job*
 *.log
 *.out
